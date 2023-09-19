@@ -1,11 +1,10 @@
 ---
 author: Carlos-Rodríguez
-categories: ['health']
+categories: ["health"]
 date: 2023/09/15
 image: https://picsum.photos/600/400?random=3
 title: Los beneficios de una dieta equilibrada
 description: Descubre cómo una alimentación adecuada puede mejorar tu salud y calidad de vida.
-
 ---
 
 La alimentación es fundamental para mantener una vida saludable. Una dieta equilibrada proporciona los nutrientes esenciales que nuestro cuerpo necesita para funcionar correctamente.

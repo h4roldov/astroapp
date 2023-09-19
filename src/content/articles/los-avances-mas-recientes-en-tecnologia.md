@@ -1,11 +1,10 @@
 ---
 author: Juan-Pérez
-categories: ['tech']
+categories: ["tech"]
 date: 2023/09/15
 image: https://picsum.photos/1024/768?random=2
 title: Los avances más recientes en tecnología
 description: Exploraremos las últimas tendencias tecnológicas y cómo están impactando nuestras vidas.
-
 ---
 
 En los últimos años, la tecnología ha avanzado a pasos agigantados. Desde la inteligencia artificial hasta la realidad virtual, estamos viviendo una revolución tecnológica sin precedentes.

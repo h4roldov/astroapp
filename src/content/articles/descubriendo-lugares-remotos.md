@@ -1,11 +1,10 @@
 ---
 author: María-González
-categories: ['travel']
+categories: ["travel"]
 date: 2023/09/15
 image: https://picsum.photos/1024/768?random=1
 title: Descubriendo lugares remotos
-description: 'Un viaje a lo desconocido: aventuras en destinos remotos alrededor del mundo.'
-
+description: "Un viaje a lo desconocido: aventuras en destinos remotos alrededor del mundo."
 ---
 
 ¿Estás buscando una aventura única? Los destinos remotos ofrecen una experiencia incomparable para los viajeros intrépidos. Desde las selvas tropicales de América del Sur hasta las heladas tierras del Ártico, hay un mundo por descubrir.

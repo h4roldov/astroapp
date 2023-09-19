@@ -1,70 +1,70 @@
 ---
+
 ---
 
 <div class="nav-links">
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-    <a href="/blog">Blog</a>
-  </div>
+  <a href="/">Home</a>
+  <a href="/about">About</a>
+  <a href="/blog">Blog</a>
+</div>
 
 <style>
-    ul {
-        display: flex;
-        column-gap: 8px;
-    }
+  ul {
+    display: flex;
+    column-gap: 8px;
+  }
 
-    header {
-        display: flex;
-        margin-left: auto;
-        margin-right: auto;
-        justify-content: space-between;
-        align-items: center;
-        padding-right: 6rem; 
-        padding-left: 6rem;
-    }
-    /* nav styles */
+  header {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 6rem;
+    padding-left: 6rem;
+  }
+  /* nav styles */
 
-.nav-links {
-  width: 100%;
-  top: 5rem;
-  left: 48px;
-  background-color: #ff9776;
-  display: none;
-  margin: 0;
-}
-
-.nav-links a {
-  display: block;
-  text-align: center;
-  padding: 10px 0;
-  text-decoration: none;
-  font-size: 1.2rem;
-  font-weight: bold;
-  text-transform: uppercase;
-}
-
-.nav-links a:hover,
-.nav-links a:focus {
-  background-color: #ff9776;
-}
-
-.expanded {
-  display: unset;
-}
-
-@media screen and (min-width: 636px) {
   .nav-links {
-    margin-left: 5em;
-    display: block;
-    position: static;
-    width: auto;
-    background: none;
+    width: 100%;
+    top: 5rem;
+    left: 48px;
+    background-color: #ff9776;
+    display: none;
+    margin: 0;
   }
 
   .nav-links a {
-    display: inline-block;
-    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    padding: 10px 0;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-transform: uppercase;
   }
 
-}
+  .nav-links a:hover,
+  .nav-links a:focus {
+    background-color: #ff9776;
+  }
+
+  .expanded {
+    display: unset;
+  }
+
+  @media screen and (min-width: 636px) {
+    .nav-links {
+      margin-left: 5em;
+      display: block;
+      position: static;
+      width: auto;
+      background: none;
+    }
+
+    .nav-links a {
+      display: inline-block;
+      padding: 15px 20px;
+    }
+  }
 </style>
